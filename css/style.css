@@ -33,7 +33,7 @@ form textarea {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
   font-size: 1.3rem;
 }
 
